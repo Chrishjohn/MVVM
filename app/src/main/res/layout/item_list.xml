@@ -6,7 +6,7 @@
 
         <variable
             name="viewmodel"
-            type="com.example.karanpractical2.data.model.trip.TripResponse" />
+            type="com.example.room.data.model.trip.TripResponse" />
 
         <import type="android.view.View" />
     </data>
